@@ -9,7 +9,7 @@
 
 **AI consulting, web applications and audits from Vienna, Austria**
 
-Pushing Pixels is the studio of [Daniel Kurdoghlian](https://github.com/derblub). Consulting and development stay with one person, so nothing gets lost in a handover.
+Pushing Pixels is [Daniel Kurdoghlian](https://github.com/derblub), developer and consultant. Consulting and development stay with one person, so nothing gets lost in a handover.
 
 [![pushingpixels.at](https://img.shields.io/badge/pushingpixels.at-1d1d20?style=for-the-badge)](https://pushingpixels.at)
 [![Get in touch](https://img.shields.io/badge/Get_in_touch-5eead4?style=for-the-badge)](https://pushingpixels.at/contact)
@@ -28,7 +28,7 @@ Pushing Pixels is the studio of [Daniel Kurdoghlian](https://github.com/derblub)
 
 ### Open source
 
-The tools I use in client work are public:
+Tools I built and maintain:
 
 - **[django-upgrade-report](https://github.com/derblub/django-upgrade-report):** which of your dependencies block a Django upgrade, and in which order to upgrade them.
 - **[changereel](https://github.com/derblub/changereel):** what a pull request changed on the pages of a site, as a before and after video.
